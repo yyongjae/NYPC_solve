@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/yongcho/Desktop/yonggit/NYPC_solve/2020-1-1.cpp
+iostream
+-
+cstdio
+-
+vector
+-
+
+/Users/yongcho/Desktop/yonggit/NYPC_solve/2020_SORT.cpp
+iostream
+-
+cstdio
+-
+string
+-
+
+/Users/yongcho/Desktop/yonggit/NYPC_solve/2020_updown.cpp
+iostream
+-
+cstdio
+-
+string
+-
+

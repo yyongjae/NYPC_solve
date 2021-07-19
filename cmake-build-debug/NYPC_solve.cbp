@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="NYPC_solve"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/yongcho/Desktop/yonggit/NYPC_solve/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/yongcho/Desktop/yonggit/NYPC_solve/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/yongcho/Desktop/yonggit/NYPC_solve/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/yongcho/Desktop/yonggit/NYPC_solve/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/yongcho/Desktop/yonggit/NYPC_solve/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/yongcho/Desktop/yonggit/NYPC_solve/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/yongcho/Desktop/yonggit/NYPC_solve/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/yongcho/Desktop/yonggit/NYPC_solve/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/yongcho/Desktop/yonggit/NYPC_solve/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/yongcho/Desktop/yonggit/NYPC_solve/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/yongcho/Desktop/yonggit/NYPC_solve/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/yongcho/Desktop/yonggit/NYPC_solve/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/yongcho/Desktop/yonggit/NYPC_solve/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/yongcho/Desktop/yonggit/NYPC_solve/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/yongcho/Desktop/yonggit/NYPC_solve/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="NYPC_solve">
+				<Option output="/Users/yongcho/Desktop/yonggit/NYPC_solve/cmake-build-debug/NYPC_solve" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/yongcho/Desktop/yonggit/NYPC_solve/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/yongcho/Desktop/yonggit/NYPC_solve/cmake-build-debug/Makefile&quot;  VERBOSE=1 NYPC_solve"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/yongcho/Desktop/yonggit/NYPC_solve/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/yongcho/Desktop/yonggit/NYPC_solve/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/yongcho/Desktop/yonggit/NYPC_solve/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="NYPC_solve/fast">
+				<Option output="/Users/yongcho/Desktop/yonggit/NYPC_solve/cmake-build-debug/NYPC_solve" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/yongcho/Desktop/yonggit/NYPC_solve/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/yongcho/Desktop/yonggit/NYPC_solve/cmake-build-debug/Makefile&quot;  VERBOSE=1 NYPC_solve/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/yongcho/Desktop/yonggit/NYPC_solve/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/yongcho/Desktop/yonggit/NYPC_solve/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/yongcho/Desktop/yonggit/NYPC_solve/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/yongcho/Desktop/yonggit/NYPC_solve/2020-1-1.cpp">
+			<Option target="NYPC_solve"/>
+		</Unit>
+		<Unit filename="/Users/yongcho/Desktop/yonggit/NYPC_solve/2020_SORT.cpp">
+			<Option target="NYPC_solve"/>
+		</Unit>
+		<Unit filename="/Users/yongcho/Desktop/yonggit/NYPC_solve/2020_updown.cpp">
+			<Option target="NYPC_solve"/>
+		</Unit>
+		<Unit filename="/Users/yongcho/Desktop/yonggit/NYPC_solve/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
